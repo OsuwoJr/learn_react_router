@@ -71,7 +71,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="React JS Blog" />
+      <Header title="OsuwoJr's Blog" />
       <Nav search={search} setSearch={setSearch} />
       <Switch>
         <Route exact path="/">
